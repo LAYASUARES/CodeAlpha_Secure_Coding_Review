@@ -89,7 +89,7 @@ Because the input is not sanitized or restricted, this module demonstrates a Com
 
 ---
 
-##Security Perspective
+## Security Perspective
 
 From a security standpoint, this application intentionally violates secure coding principles such as:
 
@@ -105,21 +105,21 @@ These weaknesses make the application suitable for:
 
 ---
 
-##Disclaimer
+## Disclaimer
 
 This application was created strictly for educational and learning purposes.
 It should never be used in production environments.
 
 ---
 
-#Conclusion
+# Conclusion
 
 This project demonstrates how insecure coding practices can introduce serious security risks.
 By reviewing and testing this code, it is possible to identify vulnerabilities, understand their impact, and propose remediation strategies aligned with secure coding best practices.
 
 ---
  
-##How to Run the Application
+## How to Run the Application
 
 ### 1. Clone or download the project
 
