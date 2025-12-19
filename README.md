@@ -117,6 +117,7 @@ It should never be used in production environments.
 This project demonstrates how insecure coding practices can introduce serious security risks.
 By reviewing and testing this code, it is possible to identify vulnerabilities, understand their impact, and propose remediation strategies aligned with secure coding best practices.
 
+The identified vulnerabilities are documented in the .doc folder. Please review them at your earliest convenience.
 ---
  
 ## How to Run the Application
